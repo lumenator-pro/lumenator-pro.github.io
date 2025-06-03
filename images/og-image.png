@@ -1,0 +1,5 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F5F5F7"/>
+  <text x="600" y="315" font-family="system-ui" font-size="48" fill="#86868B" text-anchor="middle">Open Graph Image</text>
+  <text x="600" y="365" font-family="system-ui" font-size="32" fill="#A1A1A6" text-anchor="middle">1200 × 630</text>
+</svg>
